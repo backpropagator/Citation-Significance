@@ -1,0 +1,9 @@
+Method,Precision
+SVM [35],0.65
+RF [27],0.72
+RF [24],0.85
+SVM [24],0.76
+RF (Proposed),0.92
+SVM (Proposed),0.79
+kNN (Proposed),0.86
+DT (Proposed),0.8
