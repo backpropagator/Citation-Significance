@@ -3,7 +3,7 @@ This repository consists of Codes used for QSS Submission
 
 The directories are organized as follows:
 
-Codebase
+- Codebase
 
 	- Citation Graph
 		- novelty_graph.py : code to create the SCG (Significant Citation Graph)
