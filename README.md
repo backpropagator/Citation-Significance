@@ -21,6 +21,16 @@ The directories are organized as follows:
 		- wmd_features.py : Code to extract Word Mover's Distance features (F22 - F26)
 		- yake_features.py : Code to extract YAKE features (F19 - F21)
 
+- Dataset
+	- 3C
+		- SDP_test.csv : Test file for 3C dataset
+		- SDP_train.csv : Train file for 3C dataset
+		- train_features.csv : Extracted features for the training set
+		- test_features.csv : Extracted features for the testing set
+
+	- Valenzuela
+		- all_features.csv : Extracted features for Valenzuela dataset
+
 **Notes**
 1. All the codes were run using Python 3.7
 2. Update the location of directory in the codes according to your directory setup.
